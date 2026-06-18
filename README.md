@@ -8,10 +8,26 @@ Desenvolvedora Front-end em Formação
 📍 Niterói - RJ | Brasil
 </p>
 
+
+<!-- APRESENTAÇÃO -->
+
 <p align="center">
-Desenvolvedora Front-end em constante evolução, apaixonada por tecnologia e pela criação de interfaces modernas, acessíveis e responsivas, transformando ideias em experiências digitais de qualidade.
+Sou estudante de tecnologia com foco em Desenvolvimento Front-end, apaixonada por criar experiências digitais modernas, funcionais e acessíveis.
 </p>
 
+<p align="center">
+Minha jornada é baseada em aprendizado contínuo, aperfeiçoamento técnico e desenvolvimento de soluções utilizando boas práticas de programação.
+</p>
+
+<p align="center">
+Busco construir uma carreira sólida como Desenvolvedora Front-end, contribuindo com projetos inovadores e ambientes que valorizem tecnologia e evolução profissional.
+</p>
+
+
+<br>
+
+
+<!-- CONTATOS -->
 
 <div align="center">
 
@@ -35,6 +51,55 @@ Desenvolvedora Front-end em constante evolução, apaixonada por tecnologia e pe
 <br>
 
 
+---
+
+<h2>🌟 Minha postura profissional</h2>
+
+<p>
+Acredito que desenvolver tecnologia vai além de escrever código: envolve entender pessoas, resolver problemas e criar soluções com propósito.
+</p>
+
+<p>
+Tenho uma postura baseada em organização, responsabilidade e aprendizado contínuo. Ao iniciar um projeto, busco compreender o objetivo da solução, alinhar expectativas, pesquisar possibilidades e estruturar um caminho antes da execução.
+</p>
+
+<p>
+Diante de desafios, mantenho persistência para encontrar soluções, investigando causas, aprendendo com cada experiência e buscando evolução constante.
+</p>
+
+<p>
+Valorizo o trabalho em equipe, a comunicação e a troca de conhecimento, respeitando diferentes ideias e contribuindo para um ambiente colaborativo.
+</p>
+
+
+<h3>💡 Meus diferenciais</h3>
+
+<ul>
+
+<li>🚀 Facilidade em aprender e me adaptar a novas tecnologias</li>
+
+<li>🎯 Comprometimento com entregas de qualidade</li>
+
+<li>🧩 Atenção aos detalhes e organização no desenvolvimento</li>
+
+<li>🤝 Colaboração e comunicação em equipe</li>
+
+<li>📚 Busca constante por aperfeiçoamento profissional</li>
+
+<li>✨ Foco em criar soluções funcionais, eficientes e com boa experiência para o usuário</li>
+
+</ul>
+
+
+<h3>🌱 Meu diferencial como desenvolvedora</h3>
+
+<p>
+Minha dedicação em aprender continuamente, minha responsabilidade com cada tarefa e minha vontade de transformar conhecimento em soluções reais, buscando sempre evoluir como profissional.
+</p>
+
+
+---
+
 <h2>👩‍💻 Sobre Mim</h2>
 
 <ul>
@@ -45,40 +110,39 @@ Desenvolvedora Front-end em constante evolução, apaixonada por tecnologia e pe
 
 <li>🌱 Atualmente estudando HTML, CSS, JavaScript, Git e GitHub</li>
 
-<li>🚀 Buscando evolução profissional na área de tecnologia</li>
+<li>🎯 Objetivo profissional: Desenvolvedora Front-end no SENAI/FIRJAN</li>
 
-<li>🎯 Objetivo: Desenvolvedora Front-end SENAI/FIRJAN</li>
+<li>🚀 Em constante evolução profissional</li>
 
 </ul>
 
 
+---
+
 <h2>🚀 Tecnologias</h2>
 
 
-<div>
+<h3>Linguagens</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,vue,tailwind,bootstrap">
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python">
 
 
-<h2>🗄️ Banco de Dados</h2>
+<h3>Frameworks e Bibliotecas</h3>
 
-<div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap">
+
+
+<h3>Banco de Dados</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb">
 
-</div>
 
-
-<h2>🛠️ Ferramentas</h2>
-
-<div>
+<h3>Ferramentas</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma">
 
-</div>
 
+---
 
 <h2>📚 Atualmente Estudando</h2>
 
@@ -99,63 +163,74 @@ Desenvolvedora Front-end em constante evolução, apaixonada por tecnologia e pe
 </ul>
 
 
+---
 
 <h2>📂 Projetos</h2>
 
 <p>
-Projetos voltados ao aperfeiçoamento profissional,
-desenvolvimento Front-end e construção de interfaces modernas.
+Meus projetos representam minha evolução profissional e prática no desenvolvimento Front-end.
 </p>
-
 
 <ul>
 
-<li>Interfaces responsivas</li>
+<li>Interfaces modernas e responsivas</li>
 
-<li>Aplicações Web</li>
+<li>Aplicações utilizando JavaScript</li>
 
-<li>Projetos com JavaScript</li>
+<li>Projetos com React e Next.js</li>
 
-<li>Estudos com React e Next.js</li>
+<li>Estudos de experiência do usuário</li>
+
+<li>Aperfeiçoamento profissional em tecnologia</li>
 
 </ul>
 
 
+---
 
 <h2>📊 GitHub Stats</h2>
 
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=dayanetechnology&show_icons=true&theme=tokyonight">
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=dayanetechnology&show_icons=true&theme=tokyonight&hide_border=true">
 
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanetechnology&layout=compact&theme=tokyonight">
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanetechnology&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
 
+---
+
+<h2>🎯 Objetivo Profissional</h2>
+
+<p>
+Construir uma carreira como Desenvolvedora Front-end, contribuindo para projetos tecnológicos, inovadores e centrados na experiência do usuário.
+</p>
+
+<p>
+Tenho interesse em ambientes que valorizem aprendizado, colaboração e crescimento profissional, como o SENAI/FIRJAN.
+</p>
+
+
+---
 
 <h2>📫 Contato</h2>
 
-
 <p>
-
 📧 Email:
 <b>dayanetrab2@gmail.com</b>
-
 </p>
 
 
 <p>
-
 📱 WhatsApp:
 <a href="https://w.app/dayanetechnology">
 Clique aqui
 </a>
-
 </p>
 
 
@@ -163,7 +238,5 @@ Clique aqui
 
 
 <h3 align="center">
-
 ✨ Obrigada por visitar meu perfil! 🚀
-
 </h3>
